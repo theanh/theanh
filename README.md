@@ -9,7 +9,7 @@ I'm a passionate engineer with **14+ years of experience** building scalable dat
 ## 💼 What I Do
 
 - 🏗️ **Architect scalable data solutions** processing billions of records
-- ☁️ **Optimize cloud infrastructure** (AWS, Azure) for cost and performance
+- ☁️ **Optimize cloud infrastructure** (AWS) for cost and performance
 - 📊 **Build ETL pipelines** that power business intelligence
 - 👥 **Lead engineering teams** and mentor developers
 - 🔧 **Design and implement** backend systems that drive business growth
