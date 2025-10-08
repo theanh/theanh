@@ -34,20 +34,20 @@ I'm a passionate engineer with **14+ years of experience** building scalable dat
 - Scaled engineering teams from **3 to 7 members** while maintaining high performance
 - Promoted from Senior Engineer to **Technical Lead within 2 years**
 - Mentored engineers with **2 promoted to higher positions**
-- Improved team productivity by **40%** through clear KPIs and goals
+- Improved team productivity through clear KPIs and goals
 
 ---
 
 ## 🛠️ Tech Stack
 
 ```text
-Languages:      Python, JavaScript, TypeScript, PHP
+Languages:        Python, JavaScript, TypeScript, PHP
 Data Engineering: Apache Airflow, PySpark, ETL Pipelines
-Cloud:          AWS (EMR, Athena, Lambda, S3, RDS, SQS, ElastiCache)
-                Azure Data Warehouse (Dedicated SQL Pool)
-Databases:      PostgreSQL, MySQL, Elasticsearch, Cassandra
-DevOps:         Docker, Terraform, Elastic Stack (ELK)
-Web:            RESTful API, GraphQL, AMP
+Cloud:            AWS (EMR, Athena, Lambda, S3, RDS, SQS, ElastiCache)
+                  Azure Data Warehouse (Dedicated SQL Pool)
+Databases:        PostgreSQL, MySQL, Elasticsearch, Cassandra
+DevOps:           Docker, Terraform, Elastic Stack (ELK)
+Web:              RESTful API, GraphQL, AMP
 ```
 
 ---
@@ -84,11 +84,6 @@ Secure identity verification solution for enterprise clients
 - **Role:** Senior Software Engineer
 - **Tech:** Symfony, React, Elasticsearch
 - 🔗 [Visit TrueProfile](https://www.trueprofile.io)
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theanh&show_icons=true&theme=default&hide_border=true)
 
 ---
 
@@ -129,7 +124,7 @@ When I'm not coding, you'll find me:
 
 <div align="center">
 
-### 💡 *"Great code is not just about solving problems—it's about solving them efficiently, scalably, and sustainably."*
+### 💡 *"Great code is minimal to no code."*
 
 **Thanks for visiting my profile!** Feel free to explore my repositories and reach out if you'd like to collaborate.
 
