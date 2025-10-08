@@ -47,7 +47,7 @@ Cloud:            AWS (EMR, Athena, Lambda, S3, RDS, SQS, ElastiCache)
                   Azure Data Warehouse (Dedicated SQL Pool)
 Databases:        PostgreSQL, MySQL, Elasticsearch, Cassandra
 DevOps:           Docker, Terraform, Elastic Stack (ELK)
-Web:              RESTful API, GraphQL, AMP
+Web:              Laravel, Symfony, RESTful API, GraphQL
 ```
 
 ---
@@ -97,9 +97,7 @@ I'm always interested in discussing:
 
 ### 📫 Reach Me At:
 
-- 📧 Email: theanh.huy@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/the-anh](https://www.linkedin.com/in/the-anh)
-- 📱 Phone: +84935089086
 
 ---
 
@@ -126,6 +124,6 @@ When I'm not coding, you'll find me:
 
 ### 💡 *"Great code is minimal to no code."*
 
-**Thanks for visiting my profile!** Feel free to explore my repositories and reach out if you'd like to collaborate.
+**Thanks for visiting my profile!**
 
 </div>
