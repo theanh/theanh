@@ -19,10 +19,10 @@ I'm a passionate engineer with **14+ years of experience** building scalable dat
 ## 🎯 Key Achievements
 
 ### 💰 Cost Optimization Expert
-- **Reduced infrastructure costs by $6,000+/month** through strategic optimization
-- Cut EMR processing costs by **50%** (from $7K to $3K monthly)
-- Executed an action plan to eliminate $2,000/month in AWS OpenSearch expenses by migrating to self-hosted Elasticsearch
-- Executed an action plan to reduce reporting pipeline costs by ~$1,000/month
+**Reduced infrastructure costs by over $6,000/month** through strategic optimizations
+- Cut EMR processing costs by 50% (from $7K to $3K/month)
+- Helped eliminate $2,000/month in AWS OpenSearch expenses by migrating to self-hosted Elasticsearch
+- Contributed to reducing reporting pipeline costs by approximately $1,000/month
 
 ### 📈 Scale & Performance
 - Managed data pipelines processing **6 billion records** at peak volume
@@ -62,7 +62,7 @@ Web:              Laravel, Symfony, RESTful API, GraphQL
 
 ### 🤖 Digital OOH Advertising Platform
 Automation solutions for digital out-of-home advertising
-- **Role:** Freelance Technical Consultant
+- **Role:** Contractor Senior Engineer (June 2025 - present)
 - **Impact:** Reduced campaign processing time through automation
 - **Tech:** TypeScript, AWS Lambda, Athena, RDS
 
@@ -70,7 +70,7 @@ Automation solutions for digital out-of-home advertising
 Multi-tenant platform for vending machine fleet management
 - **Role:** Freelance Technical Consultant (December 2024 - May 2025)
 - **Features:** Real-time inventory tracking, automated alerts
-- **Tech:** PHP, JavaScript, Python, AWS
+- **Tech:** PHP, Node.js, Python, AWS
 
 ### 🎯 iPrice - E-commerce Price Comparison Platform
 Southeast Asia's leading e-commerce aggregator serving millions of users
