@@ -77,7 +77,7 @@ Multi-tenant platform for vending machine fleet management
 Southeast Asia's leading e-commerce aggregator serving millions of users
 - **Role:** Technical Lead
 - **Impact:** Contributed to reducing costs by 50%, optimized data processing from 12 hours to <8 hours, managed 6B records at peak, contributed to enhancing platform performance serving 20M+ monthly visitors
-- **Tech:** Python, PHP, AWS, PySpark, Elasticsearch
+- **Tech:** Python, PHP, AWS, PySpark, Elasticsearch, Cassandra, Data Lake, Data Warehouse
 - 🔗 [Visit iPrice](https://iprice.my)
 
 ### 🔐 TrueProfile - Identity Verification System
