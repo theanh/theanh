@@ -29,7 +29,7 @@ I'm a passionate engineer with **14+ years of experience** building scalable dat
 - Reduced data processing time to **<8 hours** for improved data freshness
 - Improved API response times (95th percentile) to **<250ms** through infrastructure optimization
 - Scaled a web crawling tool from 60K pages scraped per hour to 250K, a **~4x improvement**
-- Enhanced platform performance serving **20M+ monthly visitors**
+- Contributed to enhancing platform performance **serving 20M+ monthly visitors** at peak time
 
 ### 👨‍💼 Leadership & Team Building
 - Scaled engineering teams from **3 to 7 members** while maintaining high performance
