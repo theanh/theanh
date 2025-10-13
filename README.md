@@ -76,7 +76,7 @@ Multi-tenant platform for vending machine fleet management
 ### 🎯 iPrice - E-commerce Price Comparison Platform
 Southeast Asia's leading e-commerce aggregator serving millions of users
 - **Role:** Technical Lead
-- **Impact:** Executed action plans reducing costs by 50%, optimized data processing to <8 hours, managed 6B records at peak
+- **Impact:** Contributed to reducing costs by 50%, optimized data processing from 12 hours to <8 hours, managed 6B records at peak, contributed to enhancing platform performance serving 20M+ monthly visitors
 - **Tech:** Python, PHP, AWS, PySpark, Elasticsearch
 - 🔗 [Visit iPrice](https://iprice.my)
 
