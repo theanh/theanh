@@ -27,7 +27,8 @@ I'm a passionate engineer with **14+ years of experience** building scalable dat
 ### 📈 Scale & Performance
 - Managed data pipelines processing **6 billion records** at peak volume
 - Reduced data processing time to **<8 hours** for improved data freshness
-- Improved API response times to **<250ms** through infrastructure optimization
+- Improved API response times (95th percentile) to **<250ms** through infrastructure optimization
+- Scaled a web crawling tool from 60K pages scraped per hour to 250K, a **~4x improvement**
 - Enhanced platform performance serving **20M+ monthly visitors**
 
 ### 👨‍💼 Leadership & Team Building
