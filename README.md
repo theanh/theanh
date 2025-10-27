@@ -43,12 +43,12 @@ I'm a passionate engineer with **14+ years of experience** building scalable dat
 
 ```text
 Languages:        Python, JavaScript, TypeScript, PHP
-Data Engineering: Apache Airflow, PySpark, ETL Pipelines
-Cloud:            AWS (EMR, Athena, Lambda, S3, RDS, SQS, ElastiCache)
-                  Azure Data Warehouse (Dedicated SQL Pool)
-Databases:        PostgreSQL, MySQL, Elasticsearch, Cassandra
-DevOps:           Docker, Terraform, Elastic Stack (ELK)
 Web:              Laravel, Symfony, RESTful API, GraphQL
+Data Engineering: ETL pipelines, Apache Airflow, PySpark
+Cloud:            AWS (Athena, EMR, S3, SQS, ElastiCache, Lambda, RDS)
+                  Azure Data Warehouse (Dedicated SQL Pool)
+Databases:        Elasticsearch, MySQL, PostgreSQL, SQL Server, Cassandra
+DevOps:           Docker, Terraform, Elastic Stack (ELK)
 ```
 
 ---
@@ -66,6 +66,7 @@ Automation solutions for digital out-of-home advertising
 - **Role:** Contractor Senior Engineer (June 2025 - present)
 - **Impact:** Reduced campaign processing time through automation
 - **Tech:** TypeScript, AWS Lambda, Athena, RDS
+- **AI tools:** Cursor, Claude
 
 ### 🏪 SaaS Vending Machine Management
 Multi-tenant platform for vending machine fleet management
@@ -77,7 +78,7 @@ Multi-tenant platform for vending machine fleet management
 Southeast Asia's leading e-commerce aggregator serving millions of users
 - **Role:** Technical Lead
 - **Impact:** Contributed to reducing costs by 50%, optimized data processing from 12 hours to <8 hours, managed 6B records at peak, contributed to enhancing platform performance serving 20M+ monthly visitors
-- **Tech:** Python, PHP, AWS, PySpark, Elasticsearch, Cassandra, Data Lake, Data Warehouse
+- **Tech:** Python, PHP, AWS (Athena, EMR, S3, SQS, ElastiCache), Azure Data Warehouse, Apache Airflow, Elastic Stack (ELK), Cassandra
 - 🔗 [Visit iPrice](https://iprice.my)
 
 ### 🔐 TrueProfile - Identity Verification System
@@ -91,10 +92,10 @@ Secure identity verification solution for enterprise clients
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
+- 🔧 System design
 - 💬 Data engineering and architecture patterns
 - 🚀 Cloud optimization strategies
 - 👥 Engineering leadership and team building
-- 🔧 Backend system design
 
 ### 📫 Reach Me At:
 
