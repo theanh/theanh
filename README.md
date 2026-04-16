@@ -1,6 +1,6 @@
 # Hi there, I'm The Anh Nguyen 👋
 
-## 🚀 Technical Lead | Backend Engineer | Data Engineering Specialist
+## 🚀 Technical Lead | Fullstack Engineer | Data Engineering Specialist
 
 I'm a passionate engineer with **14+ years of experience** building scalable data pipelines and robust backend systems. I love solving complex problems, optimizing infrastructure costs, and mentoring teams to achieve their best.
 
