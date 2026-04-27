@@ -1,131 +1,58 @@
-# Hi there, I'm The Anh Nguyen 👋
+<h1>Hi there!</h1>
 
-## 🚀 Technical Lead | Fullstack Engineer | Data Engineering Specialist
+<p align="center">
+  <a href="https://www.linkedin.com/in/the-anh/">
+    <img src="https://img.shields.io/badge/-The%20Anh%20Nguyen-blue?style=for-the-badge&logo=Linkedin&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+  </a>
+  <a href="https://github.com/theanh">
+    <img src="https://img.shields.io/badge/theanh-1c1a14?style=for-the-badge&logo=github&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+  </a>
+  <a href="https://theanh.streamlit.app">
+    <img src="https://img.shields.io/badge/Live%20Demos-0078D4?style=for-the-badge&logo=Streamlit&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+  </a>
+  <a href="https://theanh.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=githubpages&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+  </a>
+</p>
 
-I'm a passionate engineer with **14+ years of experience** building scalable data pipelines and robust backend systems. I love solving complex problems, optimizing infrastructure costs, and mentoring teams to achieve their best.
+**Focus:** `AI Engineering` · `Agentic Systems` · `Data Engineering` · `Cloud Infrastructure` · `Backend Systems` · `Engineering Leadership`
 
----
+Engineering at scale. I build data systems that handle billions of records, cut infrastructure costs, and actually last. Hands-on from product discovery, architecture, implementation to deployment.
 
-## 💼 What I Do
+15+ years of it. Pipelines, EMR clusters, Airflow DAGs, and the unglamorous work of cutting cloud costs from the inside. I profile actual bottlenecks before changing anything, and prefer durable fixes over clever ones.
 
-- 🏗️ **Architect scalable data solutions** processing billions of records
-- ☁️ **Optimize cloud infrastructure** (AWS) for cost and performance
-- 📊 **Build ETL pipelines** that power business intelligence
-- 👥 **Lead engineering teams** and mentor developers
-- 🔧 **Design and implement** backend systems that drive business growth
+Built teams too: grew engineering at iPrice from 3 to 7 and mentored two developers who were later promoted. Currently, building an LLM extraction pipeline for advertising material instructions. AWS Certified Solutions Architect: Associate (July 2022).
 
----
+### Numbers worth quoting
 
-## 🎯 Key Achievements
+**Backend at scale**
+- **20M+** monthly visitors served
+- **<250ms** API p95 latency
+- **4x** crawler throughput (60K → 250K pages/hour)
 
-### 💰 Cost Optimization Expert
-**Reduced infrastructure costs by over $6,000/month** through strategic optimizations
-- Cut EMR processing costs by 50% (from $7K to $3K/month)
-- Helped eliminate $2,000/month in AWS OpenSearch expenses by migrating to self-hosted Elasticsearch
-- Contributed to reducing reporting pipeline costs by approximately $1,000/month
+**Data engineering**
+- **6B** records at peak
+- **$6K+** monthly infrastructure savings (EMR $7K → $3K, OpenSearch $2K → self-hosted, reporting ~$1K)
+- **<8 h** data processing time
 
-### 📈 Scale & Performance
-- Managed data pipelines processing **6 billion records** at peak volume
-- Reduced data processing time to **<8 hours** for improved data freshness
-- Improved API response times (95th percentile) to **<250ms** through infrastructure optimization
-- Scaled a web crawling tool from 60K pages scraped per hour to 250K, a **~4x improvement**
-- Contributed to enhancing platform performance **serving 20M+ monthly visitors** at peak time
+**Leadership**
+- Engineering team grown from **3 to 7**, with 2 engineers later promoted
 
-### 👨‍💼 Leadership & Team Building
-- Scaled engineering teams from **3 to 7 members** while maintaining high performance
-- Promoted from Senior Engineer to **Technical Lead within 2 years**
-- Mentored engineers with **2 promoted to higher positions**
-- Improved team productivity through clear KPIs and goals
+### Case studies
 
----
+See [theanh.github.io](https://theanh.github.io) for the long versions.
 
-## 🛠️ Tech Stack
+- **iPrice Price Comparison Platform** (2018-2024): flagship with the cost, scale, and latency numbers above.
+- **Cutting Spark shuffle cost at iPrice**: wide vs narrow transformations on billion-record EMR pipelines.
+- **EMR cost mix at iPrice**: spot for stateless task nodes, on-demand for HDFS-holding core nodes.
+- **Digital OOH at Veridooh** (2025-present): LLM extraction pipeline for advertising material instructions.
+- **[SketchNet](https://theanh.github.io/sketchnet)**: CNN for hand-drawn sketches. 95.3% accuracy, 938 KB model, 1ms inference. [Live demo](https://theanh.streamlit.app/sketchnet).
+- **PCA Audio Toolkit**: PCA-based audio denoising and lossy compression. [Live demo](https://theanh.streamlit.app/pca).
 
-```text
-Languages:        Python, JavaScript, TypeScript, PHP
-Web:              Laravel, Symfony, RESTful API, GraphQL
-Data Engineering: ETL pipelines, Apache Airflow, PySpark
-Cloud:            AWS (Athena, EMR, S3, SQS, ElastiCache, Lambda, RDS)
-                  Azure Data Warehouse (Dedicated SQL Pool)
-Databases:        Elasticsearch, MySQL, PostgreSQL, SQL Server, Cassandra
-DevOps:           Docker, Terraform, Elastic Stack (ELK)
-```
+### Stack
 
----
+`Python` · `TypeScript` · `JavaScript` · `PHP` · `LLM` · `PyTorch` · `AWS (Athena · EMR · S3 · SQS · ElastiCache · Lambda · RDS)` · `Azure Data Warehouse` · `Apache Airflow` · `PySpark` · `Elasticsearch` · `MySQL` · `PostgreSQL` · `SQL Server` · `Cassandra` · `Laravel` · `Symfony` · `RESTful API` · `GraphQL` · `Docker` · `Terraform` · `ELK Stack`
 
-## 📜 Certifications
+Outside of work I explore machine learning from scratch (see SketchNet), experiment with AI agent architecture, travel, and read.
 
-🏆 [**AWS Certified Solutions Architect – Associate** (July 2022)](https://www.credly.com/badges/2cf93814-6511-40af-ab43-852d66f1e1cd?source=linked_in_profile)
-
----
-
-## 🌟 Highlighted Projects
-
-### 🤖 Digital OOH Advertising Platform
-Automation solutions for digital out-of-home advertising
-- **Role:** Contractor Senior Engineer (June 2025 - present)
-- **Impact:** Reduced campaign processing time through automation
-- **Tech:** TypeScript, AWS Lambda, Athena, RDS
-- **AI tools:** Cursor, Claude
-
-### 🏪 SaaS Vending Machine Management
-Multi-tenant platform for vending machine fleet management
-- **Role:** Freelance Technical Consultant (December 2024 - May 2025)
-- **Features:** Real-time inventory tracking, automated alerts
-- **Tech:** PHP, Node.js, Python, AWS
-
-### 🎯 iPrice - E-commerce Price Comparison Platform
-Southeast Asia's leading e-commerce aggregator serving millions of users
-- **Role:** Technical Lead
-- **Impact:** Contributed to reducing costs by 50%, optimized data processing from 12 hours to <8 hours, managed 6B records at peak, contributed to enhancing platform performance serving 20M+ monthly visitors
-- **Tech:** Python, PHP, AWS (Athena, EMR, S3, SQS, ElastiCache), Azure Data Warehouse, Apache Airflow, Elastic Stack (ELK), Cassandra
-- 🔗 [Visit iPrice](https://iprice.my)
-
-### 🔐 TrueProfile - Identity Verification System
-Secure identity verification solution for enterprise clients
-- **Role:** Senior Software Engineer
-- **Tech:** Symfony, React, Elasticsearch
-- 🔗 [Visit TrueProfile](https://www.trueprofile.io)
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing:
-- 🔧 System design
-- 💬 Data engineering and architecture patterns
-- 🚀 Cloud optimization strategies
-- 👥 Engineering leadership and team building
-
-### 📫 Reach Me At:
-
-- 💼 LinkedIn: [linkedin.com/in/the-anh](https://www.linkedin.com/in/the-anh)
-
----
-
-## 🎓 Continuous Learning
-
-I'm passionate about staying current with emerging technologies and best practices. I regularly read technical blogs, experiment with new tools, and share knowledge with the engineering community.
-
----
-
-## 🌏 Beyond Code
-
-When I'm not coding, you'll find me:
-- ✈️ Traveling and exploring new cultures
-- 📚 Reading technical blogs and industry publications
-- 🎯 Mentoring aspiring developers
-
----
-
-⭐️ **Fun Fact:** I completed my Bachelor's degree while working full-time, demonstrating my commitment to continuous growth and time management skills!
-
----
-
-<div align="center">
-
-### 💡 *"Great code is minimal to no code."*
-
-**Thanks for visiting my profile!**
-
-</div>
+> "Great code is minimal to no code."
