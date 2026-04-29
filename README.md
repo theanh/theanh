@@ -1,38 +1,50 @@
-<h1>Hi there!</h1>
+<p align="center">
+  <svg width="52" height="52" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="20" cy="20" r="17" fill="none" stroke="#1c1a14" stroke-width="1.5"/>
+    <text x="20" y="25" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="600" fill="#1c1a14" letter-spacing="-0.5">TA</text>
+  </svg>
+</p>
+
+<h1 align="center">The Anh Nguyen</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/the-anh/">
-    <img src="https://img.shields.io/badge/-The%20Anh%20Nguyen-blue?style=for-the-badge&logo=Linkedin&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+    <img src="https://img.shields.io/badge/LinkedIn-the--anh-ffd139?style=flat-square&logo=Linkedin&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
   </a>
+  &nbsp;
   <a href="https://github.com/theanh">
-    <img src="https://img.shields.io/badge/theanh-1c1a14?style=for-the-badge&logo=github&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+    <img src="https://img.shields.io/badge/GitHub-theanh-ffd139?style=flat-square&logo=github&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
   </a>
+  &nbsp;
   <a href="https://theanh.streamlit.app">
-    <img src="https://img.shields.io/badge/Live%20Demos-0078D4?style=for-the-badge&logo=Streamlit&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+    <img src="https://img.shields.io/badge/Live%20Demos-streamlit-ffd139?style=flat-square&logo=Streamlit&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
   </a>
+  &nbsp;
   <a href="https://theanh.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=githubpages&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
+    <img src="https://img.shields.io/badge/Portfolio-theanh.github.io-ffd139?style=flat-square&logo=githubpages&logoColor=ffd139&labelColor=1c1a14&color=1c1a14">
   </a>
 </p>
 
-**Focus:** `AI Engineering` · `Agentic Systems` · `Data Engineering` · `Cloud Infrastructure` · `Backend Systems` · `Engineering Leadership`
+**Focus:** `AI Engineering` - `Agentic Systems` - `Data Engineering` - `Cloud Infrastructure` - `Backend Systems` - `Engineering Leadership`
 
-Engineering at scale. I build data systems that handle billions of records, cut infrastructure costs, and actually last. Hands-on from product discovery, architecture, implementation to deployment.
+Engineering at scale. I optimize data systems that handle billions of records, cut infrastructure costs, and actually last. Hands-on from product discovery, architecture, implementation to deployment.
 
 15+ years of it. Pipelines, EMR clusters, Airflow DAGs, and the unglamorous work of cutting cloud costs from the inside. I profile actual bottlenecks before changing anything, and prefer durable fixes over clever ones.
 
-Built teams too: grew engineering at iPrice from 3 to 7 and mentored two developers who were later promoted. Currently, building an LLM extraction pipeline for advertising material instructions. AWS Certified Solutions Architect: Associate (July 2022).
+Built teams too: grew engineering at iPrice from 3 to 7 and mentored two developers who were later promoted.
+
+AWS Certified Solutions Architect: Associate (July 2022).
 
 ### Numbers worth quoting
 
 **Backend at scale**
 - **20M+** monthly visitors served
 - **<250ms** API p95 latency
-- **4x** crawler throughput (60K → 250K pages/hour)
+- **4x** crawler throughput (60K -> 250K pages/hour)
 
 **Data engineering**
 - **6B** records at peak
-- **$6K+** monthly infrastructure savings (EMR $7K → $3K, OpenSearch $2K → self-hosted, reporting ~$1K)
+- **$6K+** monthly infrastructure savings (EMR $7K -> $3K, OpenSearch $2K -> self-hosted, reporting ~$1K)
 - **<8 h** data processing time
 
 **Leadership**
@@ -42,16 +54,14 @@ Built teams too: grew engineering at iPrice from 3 to 7 and mentored two develop
 
 See [theanh.github.io](https://theanh.github.io) for the long versions.
 
-- **iPrice Price Comparison Platform** (2018-2024): flagship with the cost, scale, and latency numbers above.
-- **Cutting Spark shuffle cost at iPrice**: wide vs narrow transformations on billion-record EMR pipelines.
-- **EMR cost mix at iPrice**: spot for stateless task nodes, on-demand for HDFS-holding core nodes.
-- **Digital OOH at Veridooh** (2025-present): LLM extraction pipeline for advertising material instructions.
-- **[SketchNet](https://theanh.github.io/sketchnet)**: CNN for hand-drawn sketches. 95.3% accuracy, 938 KB model, 1ms inference. [Live demo](https://theanh.streamlit.app/sketchnet).
-- **PCA Audio Toolkit**: PCA-based audio denoising and lossy compression. [Live demo](https://theanh.streamlit.app/pca).
+- **[SketchNet](https://theanh.github.io/sketchnet)**: convolutional neural network (CNN) for hand-drawn sketches. 95.1% accuracy, 938 KB model, 1ms inference. [Live demo](https://theanh.streamlit.app/sketchnet).
+- **[DIA Risk Screener](https://theanh.github.io/dia)**: five algorithms scoring the same molecule for drug-induced autoimmunity risk. The spread between their probabilities is the trust signal. 0.896 best test AUC (area under the ROC curve), 477 compounds. [Live demo](https://theanh.streamlit.app/drug-screener).
+- **[PCA Audio Toolkit](https://theanh.github.io/pca)**: Principal Component Analysis (PCA)-based audio denoising and lossy compression. [Live demo](https://theanh.streamlit.app/pca).
+- **Cutting Spark shuffle cost**: wide vs narrow transformations on billion-record EMR pipelines.
 
 ### Stack
 
-`Python` · `TypeScript` · `JavaScript` · `PHP` · `LLM` · `PyTorch` · `AWS (Athena · EMR · S3 · SQS · ElastiCache · Lambda · RDS)` · `Azure Data Warehouse` · `Apache Airflow` · `PySpark` · `Elasticsearch` · `MySQL` · `PostgreSQL` · `SQL Server` · `Cassandra` · `Laravel` · `Symfony` · `RESTful API` · `GraphQL` · `Docker` · `Terraform` · `ELK Stack`
+`Python` - `TypeScript` - `JavaScript` - `PHP` - `LLM` - `PyTorch` - `AWS (Athena - EMR - S3 - SQS - ElastiCache - Lambda - RDS)` - `Azure Data Warehouse` - `Apache Airflow` - `PySpark` - `Elasticsearch` - `MySQL` - `PostgreSQL` - `SQL Server` - `Cassandra` - `Laravel` - `Symfony` - `RESTful API` - `GraphQL` - `Docker` - `Terraform` - `ELK Stack`
 
 Outside of work I explore machine learning from scratch (see SketchNet), experiment with AI agent architecture, travel, and read.
 
