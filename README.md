@@ -55,7 +55,7 @@ AWS Certified Solutions Architect: Associate (July 2022).
 See [theanh.github.io](https://theanh.github.io) for the long versions.
 
 - **[SketchNet](https://theanh.github.io/sketchnet)**: convolutional neural network (CNN) for hand-drawn sketches. 95.1% accuracy, 938 KB model, 1ms inference. [Live demo](https://theanh.streamlit.app/sketchnet).
-- **[DIA Risk Screener](https://theanh.github.io/dia)**: five algorithms scoring the same molecule for drug-induced autoimmunity risk. The spread between their probabilities is the trust signal. 0.896 best test AUC (area under the ROC curve), 477 compounds. [Live demo](https://theanh.streamlit.app/drug-screener).
+- **[DIA Risk Screener](https://theanh.github.io/dia)**: Investigated and compared multiple machine learning approaches (including XGBoost and scikit-learn) for drug-induced autoimmunity risk prediction, gaining hands-on experience with feature engineering, model evaluation, and ensemble methods. [Live demo](https://theanh.streamlit.app/drug-screener).
 - **[PCA Audio Toolkit](https://theanh.github.io/pca)**: Principal Component Analysis (PCA)-based audio denoising and lossy compression. [Live demo](https://theanh.streamlit.app/pca).
 - **Cutting Spark shuffle cost**: wide vs narrow transformations on billion-record EMR pipelines.
 
