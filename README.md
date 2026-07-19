@@ -29,7 +29,7 @@
 
 AI & Data Engineer. I build LLM workflows for real operations and the data platforms behind them. I use Amazon Bedrock and Claude to turn unstructured advertising-material instructions into structured data. The workflow automates 10% of a critical operational process.
 
-Before that, I built data systems that handled 6B records at peak, saved $7K/month in infrastructure costs, and grew an engineering team from 3 to 7 before splitting it into two teams.
+Before that, I engineered data systems that handled 6B records at peak, saved $7K/month in infrastructure costs, and grew an engineering team from 3 to 7 before splitting it into two teams.
 
 AWS Certified Solutions Architect: Associate (July 2022).
 
